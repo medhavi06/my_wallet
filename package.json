@@ -1,0 +1,19 @@
+{
+  "name": "my_wallet",
+  "version": "1.0.0",
+  "description": "A payment wallet that'll act as a passbook for user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medhavi06/my_wallet.git"
+  },
+  "author": "Medhavi Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medhavi06/my_wallet/issues"
+  },
+  "homepage": "https://github.com/medhavi06/my_wallet#readme"
+}
